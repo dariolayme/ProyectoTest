@@ -1,4 +1,4 @@
-//sistema de una línea de colectivos //
+//Parte de un sistema de una línea de colectivos //
 
 object pepe {
   const cantidadCafeTomado = 1
